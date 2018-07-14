@@ -30,6 +30,12 @@ man ./bambam.6
 
 Comments or suggestions? Any feedback is appreciated, please send it to [the bambam-users forum](https://groups.google.com/forum/#!forum/bambam-users).
 
+### OLPC Build and Installation ###
+
+On a machine with Sugar (`sucrose`) installed,
+
+    python olpc-setup.py dist_xo
+    sugar-install-bundle dist/bambam-1.xo
 
 ---
 
